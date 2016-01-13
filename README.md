@@ -18,6 +18,7 @@ I have build a web implementation on my react app and my next and most desired g
 Essentially the app renders a list of topics. You can add topics and rate them. Coming soon delete functionality.
 
 ## Development
+
 In order to develop or test the first step is to install all dependencies. To install all required npm modules run: 
 ```shell
 npm install
@@ -26,7 +27,8 @@ To build a bundle from this app run:
 ```shell
 npm run build
 ```
-To run the application run:
+### Web
+To run the web implementation of the application run:
 ```shell
 npm start
 ```
@@ -37,3 +39,11 @@ To support live reload for the app you need to install on chrome [`livereload ex
 This extension will keep track of changes to the app thru a socket and reload the app when changes occur.
 
 You need to enable the plugin by clicking on it once.
+
+### Native - IOS
+
+Coming soon
+
+### Native - Android
+
+Coming soon
