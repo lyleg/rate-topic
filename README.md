@@ -1,5 +1,5 @@
 # Rate Topic App
-I created this lil app to try a couple new libraries out there for the react js echo-system.
+I created this lil app to try a couple new libraries out there for the react js ecosystem.
 
 I had already been programming in React for a year now so nothing new there except good old es6 magic.
 
